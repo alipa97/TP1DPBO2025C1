@@ -3,3 +3,5 @@
 Alifa Salsabila dengan NIM 2308138 mengerjakan soal Latihan Modul
 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+![Deskripsi Gambar](output-lp/add-produk.png)
