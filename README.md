@@ -1,10 +1,10 @@
-# LP1DPBO2025C1
+# TP1DPBO2025C1
 
 Saya Alifa Salsabila dengan NIM 2308138 mengerjakan soal Tugas Praktikum 1
 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-## Detail Pemrogramana
+## Detail Pemrograman
 Program ini adalah sebuah aplikasi manajemen produk Petshop yang memungkinkan pengguna untuk mengelola daftar produk. Pengguna dapat menampilkan, menambah, mengedit, dan menghapus produk. Setiap produk memiliki atribut:
 - ID
 - Nama Produk
