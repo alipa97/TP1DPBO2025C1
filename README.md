@@ -20,3 +20,4 @@ Program ini adalah sebuah aplikasi manajemen produk Petshop yang memungkinkan pe
 |  4  | Menghapus produk dari daftar dan menghapus file foto terkait. |
 
 ![Deskripsi Gambar](output-lp/add-produk.png)
+![image](https://github.com/user-attachments/assets/07ecc650-9db8-4678-949a-a763b0d63ae8)
