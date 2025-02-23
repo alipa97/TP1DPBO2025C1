@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Inisialisasi data produk awal (hanya pertama kali)
+// Inisialisasi data produk awal 
 if (!isset($_SESSION['produk'])) {
     $_SESSION['produk'] = [
         ["id" => 1, "nama" => "Dog Food", "kategori" => "Makanan", "harga" => 50000, "foto" => "dumb_photo.jpg"],
